@@ -55,3 +55,4 @@ You should know these things... "Before started Machine Learning"
 5.Google translate
 6.Kuka:robotics
 7.etc,etc.......
+https://github.com/Basavarajkembhavimath/basavarajkembhavimath.github.io/blob/master/Machine%20learning_29-02-2020
