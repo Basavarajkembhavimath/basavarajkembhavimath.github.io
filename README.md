@@ -56,3 +56,11 @@ You should know these things... "Before started Machine Learning"
 6.Kuka:robotics
 7.etc,etc.......
 https://github.com/Basavarajkembhavimath/basavarajkembhavimath.github.io/blob/master/Machine%20learning_29-02-2020
+
+
+
+
+
+
+Full course of machine learning is here:
+https://www.youtube.com/watch?v=GwIo3gDZCVQ&t=4399s
