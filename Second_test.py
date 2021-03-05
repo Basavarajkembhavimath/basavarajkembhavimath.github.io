@@ -4,11 +4,12 @@ import sys
 
 """
 Plese run the config command before executing code
+AWSAccessKeyId = AKIAITN4ESRQNKY3IBZQ
+AWSSecretKey = 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
 """
 # Creating S3 bucket instance 
 my_s3 = boto3.resource("s3") # Actually we need to specify our key and secret id
 my_s3_client = boto3.client("s3")
-
 
 # Creating new bucket in AWS S3 storage
 #my_s3_client.create_bucket(Bucket='mybucket', CreateBucketConfiguration={'LocationConstraint': 'us-west-1'})
