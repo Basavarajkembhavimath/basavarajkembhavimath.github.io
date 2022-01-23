@@ -1,0 +1,21 @@
+Ensemble learning 
+
+what is ensemble learning?
+The ensemble is nothing but combaining the result of multiple machine learning models for regression and classification predictive modeling problems. This is referred to generally as ensemble machine learning or ensemble learning.
+
+Ensemble is one of the general aproch to get good predictions with the help of combinig multiple predictions based on that getting the good vale
+
+Three main classes of ensemble learning methods are.
+1. Bagging
+2. Stacking
+3. Boosting
+
+Bagging 
+	Bagging involves fitting many decision trees on different samples of the same dataset and averaging the predictions
+
+Stacking 
+	Stacking involves fitting many different models types on the same data and using another model to learn how to best combine the predictions.
+
+Boosting
+	Boosting involves adding ensemble members sequentially that correct the predictions made by prior models and outputs a weighted average of the predictions.
+
