@@ -1,0 +1,16 @@
+Ensemble learning
+
+We know that the method of ensemble is nothing but combining the multiple modelse and coming up with the good result of model accuracy.
+
+The combining technique is done by ensemble model there are several teqniques to comine the several models and come of with one final model.
+
+So lets take a examle of of titanic dataset to understand well about the ensemble learning.
+
+Lets start:
+We have a dataset about the titanic 
+lets assume we are finding which  
+1. combining indivisual models results
+2. taking the average r square values of each model
+3. comparing the models based on the r square and the give the weighted based on the rank of indivisual models
+4. combining the each result and taking the final result by average value mean value.
+
